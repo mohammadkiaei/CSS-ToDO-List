@@ -1,2 +1,3 @@
-# CSSToDOList-miniproj
-This is a fun Todo list using just HTML &amp; CSS. Check the link ;)
+# CSSToDOList
+This is a fun Todo list UI using just HTML &amp; CSS.<br/>
+Check the link to [live preview](https://mohammadkiaei.github.io/CSSToDOList-miniproj/) ;)
